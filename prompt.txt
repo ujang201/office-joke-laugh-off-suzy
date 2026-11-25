@@ -1,0 +1,13 @@
+Write one original one-line joke about office life for the make.fun
+One-Line Office Joke Laugh-Off.
+
+Requirements:
+- Exactly one line, 1–200 characters, about office/work life.
+- Sharp, surprising punchline — a real laugh, not a mild observation.
+- Clear on one read, no setup that needs explaining.
+- Fresh: avoid tired office cliches (Mondays, printers, coffee, long meetings).
+- Tight wording: every word earns its place.
+
+Winning angle: the modern office irony of being told AI cannot replace you,
+then being asked to train the AI that will — reassurance undercut by its
+own punchline in the same sentence.
